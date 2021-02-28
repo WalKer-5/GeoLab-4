@@ -62,3 +62,11 @@
     font-size: 16px;
     font-family: 'BPG Ingiri Arial';
 }
+/*Span*/
+.stick{
+    width: 1px;
+    height: 30px;
+    background-color: #3D58A6;
+    display: inline-block;
+    margin: 0 35px 0 30px;
+}

@@ -8,6 +8,9 @@
 .font{
     font-family: 'BPG Nino Mtavruli Bold';
 }
+.font-2{
+    font-family: 'BPG Nino Mtavruli';
+}
 /*Header  Style*/
 .nav{
     margin-left: 50px;
@@ -34,4 +37,18 @@
     font-size: 48px;
     color: white;
     padding: 6px 1px;
+}
+.section-p{
+    margin-top: 10px;
+    color: #3D58A6;
+    font-size: 22px;
+}
+.section-h{
+    font-size: 20px;
+    margin-top: 23px;
+    margin-bottom: 17px;
+}
+.section-box{
+    width: 930px;
+    height: 360px;
 }

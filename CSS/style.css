@@ -42,6 +42,7 @@
     margin-top: 10px;
     color: #3D58A6;
     font-size: 22px;
+    
 }
 .section-h{
     font-size: 20px;
@@ -51,4 +52,13 @@
 .section-box{
     width: 930px;
     height: 360px;
+    margin-left: 39px;
+}
+.vertical-align{
+    vertical-align: top;
+}
+.p1{
+    margin-bottom: 30px;
+    font-size: 16px;
+    font-family: 'BPG Ingiri Arial';
 }

@@ -1,0 +1,26 @@
+/*Code Optimize*/
+.vertical{
+    vertical-align: middle;
+}
+.display{
+    display: inline-block;
+}
+/*Header  Style*/
+.nav{
+    margin-left: 50px;
+}
+.nav-li{
+    margin-left: 22px;
+}
+.navigation-a{
+    font-size: 22px;
+    color: #3D58A6;
+    font-family: 'BPG Nino Mtavruli Bold';
+    transition: all 0.8s;
+}
+.navigation-a:hover{
+    color: rgb(16, 185, 129);
+}
+.color {
+    color: #EE4036;
+}
